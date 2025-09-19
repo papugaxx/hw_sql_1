@@ -1,0 +1,17 @@
+C:\Users\mywin\source\repos\WinFormsApp6\WinFormsApp6\bin\Debug\net8.0-windows\WinFormsApp6.exe
+C:\Users\mywin\source\repos\WinFormsApp6\WinFormsApp6\bin\Debug\net8.0-windows\WinFormsApp6.deps.json
+C:\Users\mywin\source\repos\WinFormsApp6\WinFormsApp6\bin\Debug\net8.0-windows\WinFormsApp6.runtimeconfig.json
+C:\Users\mywin\source\repos\WinFormsApp6\WinFormsApp6\bin\Debug\net8.0-windows\WinFormsApp6.dll
+C:\Users\mywin\source\repos\WinFormsApp6\WinFormsApp6\bin\Debug\net8.0-windows\WinFormsApp6.pdb
+C:\Users\mywin\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net8.0-windows\WinFormsApp6.Form1.resources
+C:\Users\mywin\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net8.0-windows\WinFormsApp6.csproj.GenerateResource.cache
+C:\Users\mywin\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net8.0-windows\WinFormsApp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mywin\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net8.0-windows\WinFormsApp6.AssemblyInfoInputs.cache
+C:\Users\mywin\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net8.0-windows\WinFormsApp6.AssemblyInfo.cs
+C:\Users\mywin\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net8.0-windows\WinFormsApp6.csproj.CoreCompileInputs.cache
+C:\Users\mywin\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net8.0-windows\WinFormsApp6.sourcelink.json
+C:\Users\mywin\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net8.0-windows\WinFormsApp6.dll
+C:\Users\mywin\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net8.0-windows\refint\WinFormsApp6.dll
+C:\Users\mywin\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net8.0-windows\WinFormsApp6.pdb
+C:\Users\mywin\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net8.0-windows\WinFormsApp6.genruntimeconfig.cache
+C:\Users\mywin\source\repos\WinFormsApp6\WinFormsApp6\obj\Debug\net8.0-windows\ref\WinFormsApp6.dll

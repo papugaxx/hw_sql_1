@@ -1,0 +1,15 @@
+C:\Users\mywin\source\repos\ConsoleApp41\ConsoleApp41\bin\Debug\net8.0\ConsoleApp41.exe
+C:\Users\mywin\source\repos\ConsoleApp41\ConsoleApp41\bin\Debug\net8.0\ConsoleApp41.deps.json
+C:\Users\mywin\source\repos\ConsoleApp41\ConsoleApp41\bin\Debug\net8.0\ConsoleApp41.runtimeconfig.json
+C:\Users\mywin\source\repos\ConsoleApp41\ConsoleApp41\bin\Debug\net8.0\ConsoleApp41.dll
+C:\Users\mywin\source\repos\ConsoleApp41\ConsoleApp41\bin\Debug\net8.0\ConsoleApp41.pdb
+C:\Users\mywin\source\repos\ConsoleApp41\ConsoleApp41\obj\Debug\net8.0\ConsoleApp41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mywin\source\repos\ConsoleApp41\ConsoleApp41\obj\Debug\net8.0\ConsoleApp41.AssemblyInfoInputs.cache
+C:\Users\mywin\source\repos\ConsoleApp41\ConsoleApp41\obj\Debug\net8.0\ConsoleApp41.AssemblyInfo.cs
+C:\Users\mywin\source\repos\ConsoleApp41\ConsoleApp41\obj\Debug\net8.0\ConsoleApp41.csproj.CoreCompileInputs.cache
+C:\Users\mywin\source\repos\ConsoleApp41\ConsoleApp41\obj\Debug\net8.0\ConsoleApp41.sourcelink.json
+C:\Users\mywin\source\repos\ConsoleApp41\ConsoleApp41\obj\Debug\net8.0\ConsoleApp41.dll
+C:\Users\mywin\source\repos\ConsoleApp41\ConsoleApp41\obj\Debug\net8.0\refint\ConsoleApp41.dll
+C:\Users\mywin\source\repos\ConsoleApp41\ConsoleApp41\obj\Debug\net8.0\ConsoleApp41.pdb
+C:\Users\mywin\source\repos\ConsoleApp41\ConsoleApp41\obj\Debug\net8.0\ConsoleApp41.genruntimeconfig.cache
+C:\Users\mywin\source\repos\ConsoleApp41\ConsoleApp41\obj\Debug\net8.0\ref\ConsoleApp41.dll
